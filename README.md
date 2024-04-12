@@ -1,1 +1,1 @@
-# TNSTC_AI-Powered-Bug-Detection-and-Resolution-
+# TNSDC_AI-Powered-Bug-Detection-and-Resolution-
